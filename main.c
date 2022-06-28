@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//verivication of the changes in the code
 void main()
 {
     int j,m,a,nbj,test;
