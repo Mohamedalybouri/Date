@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-merlot
+theme: jekyll-theme-leap-day
 
 ---
 # ***Git presentation***
