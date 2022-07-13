@@ -1,3 +1,7 @@
+---
+theme: jekyll-theme-merlot
+
+---
 # ***Git presentation***
 This presentation is a summary of the most used git commands.
 
